@@ -1,0 +1,38 @@
+# 放置路径:Filppp/Filppp 仓库下 .github/workflows/snake.yml
+# 作用:每天自动生成"贪吃蛇吃掉贡献格子"的 SVG 动画,推送到 output 分支
+# 之后 README 里就能引用 https://raw.githubusercontent.com/Filppp/Filppp/output/github-contribution-grid-snake.svg
+
+name: Generate contribution snake
+
+on:
+  # 定时触发:UTC 16:00 = 北京时间次日 00:00
+  schedule:
+    - cron: "0 16 * * *"
+  # 允许在 Actions 页面手动点 "Run workflow" 立即生成(首次必须用它)
+  workflow_dispatch:
+  # 推送到 main 时也重新生成
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write   # 必须:否则无法推送到 output 分支
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Filppp
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
