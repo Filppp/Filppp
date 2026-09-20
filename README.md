@@ -61,36 +61,6 @@ Hi, I'm **Flippp**, an undergraduate at the **School of Mechanical Engineering, 
 </div>
 
 
----
-
-### 🚀 精选项目
-
-<!-- Markdown 表格而非外链卡片:不依赖任何第三方服务,国内也不会出现破图 -->
-
-| 项目                                                         | 简介                                                         |        |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | :----- |
-| **[nanoVLM](https://github.com/Filppp/nanoVLM)**             | 小规模视觉语言模型的训练与研究实践,为多模态具身智能打基础（基于 huggingface/nanoVLM, Apache-2.0） | Python |
-| **[agent_project](https://github.com/Filppp/agent_project)** | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理 | ⭐ 1    |
-| **[Awesome-Experimental-Report-Skills](https://github.com/Filppp/Awesome-Experimental-Report-Skills)** | 实验报告自动化写作技能集,面向科研场景的 Agent Skills         | ⭐ 6    |
-| **[DL_Note](https://github.com/Filppp/DL_Note)**             | 深度学习系统性笔记：PyTorch / 动手学深度学习 / 大模型 Agent  | 笔记   |
-
----
-
-### 📊 数据看板
-
-> ⚠️ `*.vercel.app` 在国内被 DNS 污染,以下 2 张卡片**国内访客看不到**(显示为破图)。
-> 若不自建实例,建议直接删掉本节 —— 宁缺勿破图。
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filppp&show_icons=true&include_all_commits=true&theme=tokyonight" height="180" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Filppp&theme=tokyonight" height="180" alt="Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filppp&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Filppp&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4" height="180" alt="Trophy" />
-</p>
 
 
 ---
