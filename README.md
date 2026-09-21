@@ -1,13 +1,6 @@
-<!-- ============================================================
-     Filppp 的 GitHub 个人主页 README
-     仓库:https://github.com/Filppp/Filppp   (文件名必须是 README.md)
-     身份:东南大学 机械工程学院 | 方向:具身智能 & 扩散模型
-     ============================================================ -->
-
 <div align="center">
   <!-- ① 打字机动画标题 -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=640&lines=Hi,+I'm+Filppp+%F0%9F%91%8B;Embodied+Intelligence+%7C+Diffusion+Models;Keep+building,+keep+learning" alt="Typing SVG" />
-
 
   <!-- ② 身份副标题 -->
   **东南大学 机械工程学院 · 具身智能 & 扩散模型**
@@ -19,7 +12,6 @@
 <div align="center">
   <sub>🤓 Viewers</sub>
 </div>
-
 
 ---
 
@@ -60,9 +52,6 @@ Hi, I'm **Flippp**, an undergraduate at the **School of Mechanical Engineering, 
   <img src="https://img.shields.io/badge/Robot_Learning-00A98F?style=flat-square&logo=probot&logoColor=white" alt="Robot Learning" />
 </div>
 
-
-
-
 ---
 
 ### 🐍 贡献轨迹
@@ -76,18 +65,15 @@ Hi, I'm **Flippp**, an undergraduate at the **School of Mechanical Engineering, 
   </picture>
 </div>
 
-
 ---
 
 <div align="center">
   <a href="https://github.com/Filppp">
     <img src="https://img.shields.io/badge/GitHub-Filppp-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- ⚠️ 把下面的邮箱换成你自己的,用不到就整段删掉 -->
   <a href="mailto:fjunhao80@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Filppp&label=Views&color=blue&style=flat-square" alt="Views" />
 </div>
-
