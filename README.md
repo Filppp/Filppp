@@ -17,7 +17,7 @@
 
 ### 🧐 关于我
 
-你好，我是 **Flippp**，东南大学**机械工程学院**。目前聚焦 **具身智能（Embodied Intelligence）** 与 **扩散模型（Diffusion Models）**，希望未来进入具身智能行业，做真正能落到机器人身上的智能。
+你好，我是 **Flippp**，东南大学**机械工程学院**研0。目前聚焦 **具身智能（Embodied Intelligence）** 与 **扩散模型（Diffusion Models）**，希望未来进入具身智能行业，做真正能落到机器人身上的智能。
 
 - 🦾 具身智能：关注 VLA（视觉-语言-动作）模型、机器人操作与模仿学习
 - 🎨 扩散模型：探索 Diffusion Policy 在机器人动作生成与轨迹规划中的应用
@@ -28,7 +28,7 @@
 
 ### About Me
 
-Hi, I'm **Flippp**, an undergraduate at the **School of Mechanical Engineering, Southeast University**, focusing on **Embodied Intelligence** and **Diffusion Models**. I aim to join the embodied AI industry and build intelligence that actually works on real robots.
+Hi, I'm **Flippp**, I am about to join the **Mechanical Engineering College of Southeast University**, focusing on **Embodied Intelligence** and **Diffusion Models**. I aim to join the embodied AI industry and build intelligence that actually works on real robots.
 
 - 🦾 Embodied AI: VLA (Vision-Language-Action) models, robotic manipulation and imitation learning
 - 🎨 Diffusion Models: applying Diffusion Policy to robot action generation and trajectory planning
