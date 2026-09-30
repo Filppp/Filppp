@@ -21,7 +21,7 @@
 
 - 🦾 具身智能：关注 VLA（视觉-语言-动作）模型、机器人操作与模仿学习
 - 🎨 扩散模型：探索 Diffusion Policy 在机器人动作生成与轨迹规划中的应用
-- 🔬 模型复现：从零训练小规模视觉语言模型，关注多模态表征与训练效率
+- 🔬 模型复现：关注多模态表征与训练效率
 - 🤖 智能体实践：RAG、知识图谱、多智能体协作与 MCP/Skills 工具链
 - 📚 持续学习：深度学习系统性笔记，从 PyTorch 基础到大模型应用
 - 💬 常聊的话题：Embodied AI、Diffusion Policy、VLA、Robot Learning
@@ -32,7 +32,7 @@ Hi, I'm **Flippp**, I am about to join the **Mechanical Engineering College of S
 
 - 🦾 Embodied AI: VLA (Vision-Language-Action) models, robotic manipulation and imitation learning
 - 🎨 Diffusion Models: applying Diffusion Policy to robot action generation and trajectory planning
-- 🔬 Model reproduction: training small-scale VLMs from scratch, with a focus on multimodal representation and training efficiency
+- 🔬 Model reproduction: With a focus on multimodal representation and training efficiency
 - 🤖 Agent practice: RAG, knowledge graphs, multi-agent collaboration and MCP/Skills toolchains
 - 📚 Continuous learning: systematic deep learning notes, from PyTorch fundamentals to LLM applications
 - 💬 Topics I enjoy: Embodied AI, Diffusion Policy, VLA, and Robot Learning
